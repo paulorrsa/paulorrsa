@@ -17,28 +17,24 @@ Bem-vindo ao meu perfil! Aqui você encontra mais sobre meu trabalho e as tecnol
     width="30"
     height="30"
   />
-  
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" 
     alt="Ícone do CSS3"
     width="30"
     height="30"
   />
- 
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
     alt="Ícone do JavaScript"
     width="30"
     height="30"
-  />
-          
+  />       
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     alt="Ícone do React"
     width="30"
     height="30"
-  />
-          
+  />       
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"
     alt="Ícone do C++"
