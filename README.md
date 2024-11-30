@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Aqui você encontra mais sobre meu trabalho e as tecnol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulor-as/)
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulorrsa&show_icons=true&theme=synthwave) 
-#
+
 ### Tecnologias que Estudo 🛠️
 
 Atualmente, estou me aprofundando nas seguintes tecnologias e linguagens de programação:
