@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Paulo 👋
-Bem-vindo ao meu perfil! Aqui você encontra mais sobre meu trabalho e as tecnologias que estou explorando. 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo.r.sa/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulor-as/)
