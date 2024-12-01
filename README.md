@@ -5,8 +5,13 @@
 Bem-vindo ao meu perfil! Aqui você encontra mais sobre meu trabalho e as tecnologias que estou explorando. 🚀
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo.r.sa/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulor-as/)
+<a href="https://www.instagram.com/paulo.r.sa/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/paulor-as/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 
 ### 💻  Linguagens e Tecnologias
 
