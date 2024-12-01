@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Paulo 👋  
 **`Desenvolvedor Front-End`**  
-<br>  
+ 
 Bem-vindo ao meu perfil! Aqui você encontra mais sobre meu trabalho e as tecnologias que estou explorando. 🚀  
 
 
@@ -29,10 +29,11 @@ Bem-vindo ao meu perfil! Aqui você encontra mais sobre meu trabalho e as tecnol
 
 ### 📈 Estatísticas  
 
-<div style="gap:10px">
+<div >
   <img
     alt="GitHub Stats"
     height="180em"
+    style="padding-right: 15px;"
     src="https://github-readme-stats.vercel.app/api?username=paulorrsa&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br"
   />
   <img
