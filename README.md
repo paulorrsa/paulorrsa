@@ -25,22 +25,21 @@ Bem-vindo ao meu perfil! Aqui você encontra mais sobre meu trabalho e as tecnol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
 </div>
-
+ 
 
 ### 📈 Estatísticas  
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img
     alt="GitHub Stats"
-    height="180em"
-    width="380em"
-    style="padding-right: 15px;"
+    height="180"
+    width="400"
     src="https://github-readme-stats.vercel.app/api?username=paulorrsa&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br"
   />
   <img
     alt="Top Languages"
-    height="180em"
-    width="380em"
+    height="180"
+    width="400"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorrsa&locale=pt-br&theme=synthwave&langs_count=8"
   />
 </div>
