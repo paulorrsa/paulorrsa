@@ -39,7 +39,6 @@ Bem-vindo ao meu perfil! Aqui você encontra mais sobre meu trabalho e as tecnol
   <img
     alt="Top Languages"
     height="180em"
-    width="300px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorrsa&locale=pt-br&theme=synthwave&langs_count=8"
   />
 </div>
