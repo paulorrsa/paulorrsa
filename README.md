@@ -32,14 +32,12 @@ Bem-vindo ao meu perfil! Aqui você encontra mais sobre meu trabalho e as tecnol
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img
     alt="GitHub Stats"
-    height="180"
-    width="400"
     src="https://github-readme-stats.vercel.app/api?username=paulorrsa&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br"
+    style="height: 200px; width: 400px;"
   />
   <img
     alt="Top Languages"
-    height="180"
-    width="400"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorrsa&locale=pt-br&theme=synthwave&langs_count=8"
+    style="height: 200px; width: 400px;"
   />
 </div>
